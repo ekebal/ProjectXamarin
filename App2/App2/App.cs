@@ -30,10 +30,11 @@ namespace App2
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "teste dava",
-                            lv
+                            Text = "teste dava"
+                            
                     
-                        }
+                        },
+                        lv
                     }
                 }
             };
